@@ -1,3 +1,4 @@
+#FALTA EXPORTACION ARCHIVO CSV...
 import datetime
 import csv
 import json
@@ -757,3 +758,4 @@ def main():
 
 if __name__ == "__main__":
     iniciar_bd()
+
